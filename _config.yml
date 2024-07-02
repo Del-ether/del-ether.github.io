@@ -33,7 +33,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -54,5 +54,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-gem "csv"
-gem "base64"
+paginate: 5
+paginate_path: /page:num/
