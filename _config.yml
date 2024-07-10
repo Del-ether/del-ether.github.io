@@ -28,7 +28,7 @@ twitter: arkhant # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: arkhant # replace with your disqus usernamed
+disqus_shortname: del-ether # replace with your disqus usernamed
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
