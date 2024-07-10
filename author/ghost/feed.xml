@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/author/ghost/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-07-02T16:22:48-06:00</updated>
+  <updated>2024-07-10T12:47:28-06:00</updated>
   <id>http://localhost:4000/author/ghost/feed.xml</id>
 
   
@@ -44,27 +44,100 @@
 
   
     <entry>
+      <title type="html">3 el tercer post</title>
+      <link href="http://localhost:4000/Tercer-post" rel="alternate" type="text/html" title="3 el tercer post" />
+      <published>2021-04-21T06:18:00-05:00</published>
+      <updated>2021-04-21T06:18:00-05:00</updated>
+      <id>http://localhost:4000/Tercer-post</id>
+      <content type="html" xml:base="http://localhost:4000/Tercer-post">¿Qué es Lorem Ipsum? x6
+
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingr x7 esó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas &quot;Letraset&quot;, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+¿Por qué lo usamos?
+
+Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo &quot;Contenido aquí, contenido aquí&quot;. Estos textos hacen parecerlo un español que se puede leer. Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de &quot;Lorem Ipsum&quot; va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo insertándole humor y cosas por el estilo).</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">¿Qué es Lorem Ipsum? x6</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Segundo Post B</title>
+      <link href="http://localhost:4000/second-postB" rel="alternate" type="text/html" title="Segundo Post B" />
+      <published>2020-09-12T23:00:00-05:00</published>
+      <updated>2020-09-12T23:00:00-05:00</updated>
+      <id>http://localhost:4000/second-postB</id>
+      <content type="html" xml:base="http://localhost:4000/second-postB">&lt;p&gt;¿x3 BB Qué es Loremww Ipsum?&lt;/p&gt;
+&lt;p&gt;¿x4?Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas &quot;Letraset&quot;, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;Creating a totally custom design for your publication x5&lt;/p&gt;
+&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ghost</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">¿x3 BB Qué es Loremww Ipsum? ¿x4?Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas &quot;Letraset&quot;, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum. Creating a totally custom design for your publication x5 Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Welcome to Ghost</title>
       <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
       <published>2017-07-27T05:00:00-05:00</published>
       <updated>2017-07-27T05:00:00-05:00</updated>
       <id>http://localhost:4000/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/welcome">&lt;p&gt;Hey! x1 Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/welcome">Hey! x1 Welcome to Ghost, it&apos;s great to have you :)
 
-&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
+We know that first impressions are important, so we&apos;ve populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
-&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/li&gt;
-  &lt;li&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-  &lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
-&lt;/ol&gt;
+### There are a few things that you should know up-front:
+1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That&apos;s who it works best for. If you&apos;re using Ghost for some other purpose, that&apos;s fine too - but it might not be the best choice for you.
+2. The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so **does** require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
+3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
 
-&lt;p&gt;x2 Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
 
-&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
+x2 Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our [Ghost(Pro)](https://ghost.org/pricing) service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.
 
-&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content>
+The main thing you&apos;ll want to read about next is probably: [the Ghost editor](https://demo.ghost.io/the-editor/).
+
+Once you&apos;re done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!</content>
 
       
       
@@ -189,7 +262,7 @@
 &lt;p&gt;&lt;mark&gt;&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video&lt;/mark&gt;&lt;/p&gt;
 &lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code&gt;News&lt;/code&gt;, and &lt;code&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code&gt;#video&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;In your theme, you could then look for private tags conditionally and give them special formatting:&lt;/p&gt;
-
+{% raw %}
 &lt;pre&gt;&lt;code class=&quot;nohighlight&quot;&gt;{{#post}}
     {{#has tag=&amp;quot;#video&amp;quot;}}
         ...markup for a nice big video post layout...
@@ -198,7 +271,8 @@
     {{/has}}
 {{/post}}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost&apos;s extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost&apos;s extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;
+{% endraw %}</content>
 
       
       
@@ -398,7 +472,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
+&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like &lt;code&gt;{{author.name}}&lt;/code&gt;, for example, outputs the name of the current author.&lt;/p&gt;
 &lt;p&gt;The best way to learn how to write your own Ghost theme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
