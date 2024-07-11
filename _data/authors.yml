@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+arkh:
+  username: arkh
+  name: arkhant
+  location: Tepatitlan, Jalisco, Mex.
+  url_full: False
+  url: False
+  bio: "The tryer..."
+  picture: assets/images/arkh-io.jpg
+  facebook: False
+  twitter: arkhant
+  cover: assets/images/tt-cover.jpg
